@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there 😄
 
  ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=q779247257&show_icons=true&theme=radical)  
 
 
 
 
-我来自美丽的中国锅
+我来自美丽的中国
 I come from beautiful China：
 
 - 🔭 我目前是一名Java开发人员
