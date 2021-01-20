@@ -4,10 +4,9 @@
 
 
 
-<!--
-**q779247257/q779247257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+我来自美丽的中国锅
+I come from beautiful China：
 
 - 🔭 我目前是一名Java开发人员
 - 🔭I am currently a java developer
@@ -23,4 +22,4 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: Java Python PHP
 - ⚡ Fun fact: Want to be a real developer
--->
+
