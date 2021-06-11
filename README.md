@@ -25,6 +25,3 @@ I come from beautiful China：
 - 📫 How to reach me: QQ：779247257
 
 
-- 😄 Pronouns: Java Python PHP
-- ⚡ Fun fact: Want to be a real developer
-
